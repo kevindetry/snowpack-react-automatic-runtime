@@ -1,0 +1,8 @@
+{
+  "mount": {
+    "public": "/",
+    "src": "/static"
+  },
+  "plugins": ["@snowpack/plugin-babel"],
+  "install": ["react/jsx-runtime"]
+}
